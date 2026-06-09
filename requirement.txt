@@ -1,0 +1,45 @@
+# Data Analysis
+pandas
+numpy
+
+# Excel Handling
+openpyxl
+xlsxwriter
+
+# Visualization
+matplotlib
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Data Validation & Utilities
+python-dateutil
+pytz
+
+# File Handling
+pathlib
+
+# Progress Bars
+tqdm
+
+# HTTP Requests
+requests
+
+# HTML Parsing
+beautifulsoup4
+
+# Data Cleaning
+regex
+
+# Environment Variables
+python-dotenv
+
+# Code Formatting
+black
+
+# Linting
+flake8
+
+# Testing
+pytest

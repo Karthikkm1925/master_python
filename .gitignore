@@ -427,3 +427,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Python Virtual Environment
+myenv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
