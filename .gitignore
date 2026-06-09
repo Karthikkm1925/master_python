@@ -438,3 +438,5 @@ env/
 
 # Environment Variables
 .env
+
+.vscode
