@@ -1,0 +1,95 @@
+Array Traversal, fetching, count, sum
+
+count | length of elements
+print elements in single line
+
+fetch all elements
+fetch reverse order
+fetch first half forward
+fetch first half backward
+fetch second half forward
+fetch second half backward
+
+fetch even indexed elements forward
+fetch even indexed elements backward
+fetch first half even indexed forward
+fetch first half even indexed backward
+fetch second half even indexed forward
+fetch second half even indexed backward
+
+fetch only odd indexed elements
+fetch only odd indexed elements reverse
+fetch only first half odd indexed forward
+fetch only first half odd indexed reverse
+fetch only second half odd indexed forward
+fetch only second half odd indexed reversed
+
+fetch only even elements forward
+fetch only even elements backward
+fetch only first half even elements
+fetch only first half even reverse
+fetch only second half even elements 
+fetch only second half even reverse
+
+fetch only odd elements forward
+fetch only odd elements backward
+fetch only first half odd elements
+fetch only first half odd reverse
+fetch only second half odd elements 
+fetch only second half odd reverse
+
+fetch only positive elements forward
+fetch only positive elements backward
+fetch only first half positive elements
+fetch only first half positive reverse
+fetch only second half positive elements 
+fetch only second half positive reverse
+
+fetch only negative elements forward
+fetch only negative elements backward
+fetch only first half negative elements
+fetch only first half negative reverse
+fetch only second half negative elements 
+fetch only second half negative reverse
+
+count of even indexed elements
+count of first half even indexed elements
+count of second half even indexed elements
+count of odd indexed elements
+count of first half odd indexed elements
+count of second half odd indexed elements
+
+count of even elements
+count of first half even elements
+count of second half even elements
+count of odd elements
+count of first half odd elements
+count of second half odd elements
+
+sum of even indexed elements
+sum of first half even indexed elements
+sum of second half even indexed elements
+sum of odd indexed elements
+sum of first half odd indexed elements
+sum of second half odd indexed elements
+
+sum of even elements
+sum of first half even elements
+sum of second half even elements
+sum of odd elements
+sum of first half odd elements
+sum of second half odd elements
+
+sum of even indexed positive elements
+sum of first half even indexed positive elements
+sum of second half even indexed positive elements
+sum of odd indexed positive elements
+sum of first half odd indexed positive elements
+sum of second half odd indexed positive elements
+
+sum of even indexed negative elements
+sum of first half even indexed negative elements
+sum of second half even indexed negative elements
+sum of odd indexed negative elements
+sum of first half odd indexed negative elements
+sum of second half odd indexed negative elements
