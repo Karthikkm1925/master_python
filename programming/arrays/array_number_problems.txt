@@ -93,3 +93,5 @@ sum of second half even indexed negative elements
 sum of odd indexed negative elements
 sum of first half odd indexed negative elements
 sum of second half odd indexed negative elements
+
+Array searching problems
