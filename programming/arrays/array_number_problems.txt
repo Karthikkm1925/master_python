@@ -93,3 +93,13 @@ sum of second half even indexed negative elements
 sum of odd indexed negative elements
 sum of first half odd indexed negative elements
 sum of second half odd indexed negative elements
+
+average of array elements
+average of first half array elements
+average of second half array elements
+average of even elements in array
+average of odd elements in array
+average of first half array even elements
+average of first half array odd elements
+average of second half array even elements
+average of second half array odd elements
