@@ -103,3 +103,21 @@ average of first half array even elements
 average of first half array odd elements
 average of second half array even elements
 average of second half array odd elements
+
+maximum of elements
+minimum of elements
+
+maximum of even elements
+minimum of even elements
+maximum of odd elements
+minimum of odd elements
+
+maximum of first half even elements
+minimum of first half even elements
+maximum of second half even elements
+minimum of second half even elements
+
+maximum of first half odd elements
+minimum of first half odd elements
+maximum of second half odd elements
+minimum of second half odd elements
