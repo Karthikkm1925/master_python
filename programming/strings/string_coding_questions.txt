@@ -1,0 +1,25 @@
+Write a Python program to reverse a string.
+Write a Python program to check if a string is a palindrome.
+Write a Python program to count the number of vowels in a string.
+Write a Python program to find the most frequent character in a string.
+Write a Python program to remove all duplicates from a string and return the result.
+Write a Python program to check if a string contains only digits.
+Write a Python program to count the occurrences of each word in a sentence.
+Write a Python program to capitalize the first letter of each word in a sentence.
+Write a Python program to find the longest word in a sentence.
+Write a Python program to check if two strings are anagrams.
+Write a Python program to count the number of occurrences of a specific substring in a string.
+Write a Python program to find the index of the first occurrence of a substring in a string.
+Write a Python program to replace all occurrences of a substring with another substring.
+Write a Python program to find the length of the last word in a sentence.
+Write a Python program to reverse the order of words in a sentence.
+Write a Python program to check if a string is a valid email address.
+Write a Python program to check if a string is a valid URL.
+Write a Python program to find the first non-repeated character in a string.
+Write a Python program to remove all leading and trailing whitespaces from a string.
+Write a Python program to find the common characters between two strings.
+Write a Python program to find the second most frequent character in a string.
+Write a Python program to check if a string contains only unique characters.
+Write a Python program to find the longest common prefix among a list of strings.
+Write a Python program to check if a string is a valid IPv4 address.
+Write a Python program to find the first non-repeated character in a string using OrderedDict.
