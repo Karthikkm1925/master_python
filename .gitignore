@@ -433,6 +433,7 @@ myenv/
 venv/
 env/
 .myvenv/
+myvenv/
 # Jupyter
 .ipynb_checkpoints/
 
