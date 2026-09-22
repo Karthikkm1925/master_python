@@ -23,3 +23,48 @@ Write a Python program to check if a string contains only unique characters.
 Write a Python program to find the longest common prefix among a list of strings.
 Write a Python program to check if a string is a valid IPv4 address.
 Write a Python program to find the first non-repeated character in a string using OrderedDict.
+Write a Python program to count the number of characters in a string without using `len()`.
+Write a Python program to count uppercase and lowercase letters in a string.
+Write a Python program to count alphabets, digits, spaces, and special characters in a string.
+Write a Python program to find the frequency of a specific character in a string.
+Write a Python program to print all duplicate characters in a string.
+Write a Python program to remove all spaces from a string without using `replace()`.
+Write a Python program to remove all occurrences of a specific character from a string.
+Write a Python program to find the first occurrence of a specific character in a string without using `find()` or `index()`.
+Write a Python program to find the last occurrence of a specific character in a string.
+Write a Python program to convert lowercase characters to uppercase without using `upper()`.
+Write a Python program to convert uppercase characters to lowercase without using `lower()`.
+Write a Python program to swap uppercase characters to lowercase and lowercase characters to uppercase.
+Write a Python program to count the number of words in a sentence without using `split()`.
+Write a Python program to print each character of a string on a new line.
+Write a Python program to print the characters at even and odd indexes separately.
+Write a Python program to remove a specific word from a sentence.
+Write a Python program to find the shortest word in a sentence.
+Write a Python program to find the second longest word in a sentence.
+Write a Python program to find the longest and shortest words in a sentence.
+Write a Python program to reverse each word in a sentence while keeping the word order unchanged.
+Write a Python program to check whether one string is a rotation of another string.
+Write a Python program to find all duplicate words in a sentence.
+Write a Python program to find the most frequent word in a sentence.
+Write a Python program to find the second most frequent word in a sentence.
+Write a Python program to remove duplicate words from a sentence while preserving their original order.
+Write a Python program to find the character with the highest frequency and its count.
+Write a Python program to find the character with the lowest frequency.
+Write a Python program to find all characters that occur only once in a string.
+Write a Python program to find all characters that occur more than once in a string.
+Write a Python program to check whether two strings are equal without using `==`.
+Write a Python program to check whether one string is a substring of another without using `in`.
+Write a Python program to count overlapping occurrences of a substring in a string.
+Write a Python program to remove all occurrences of a substring without using `replace()`.
+Write a Python program to replace a substring without using `replace()`.
+Write a Python program to find the longest substring without repeating characters.
+Write a Python program to find the longest word containing only unique characters.
+Write a Python program to find the common words between two sentences.
+Write a Python program to find the characters present in the first string but not in the second string.
+Write a Python program to find the characters present in both strings, considering their frequency.
+Write a Python program to check whether a string contains balanced parentheses.
+Write a Python program to check whether a sentence starts and ends with the same character.
+Write a Python program to check whether a string contains only alphabets without using `isalpha()`.
+Write a Python program to check whether a string contains only alphanumeric characters without using `isalnum()`.
+Write a Python program to check whether a string contains only whitespace without using `isspace()`.
+Write a Python program to find the number of times each character appears in a string without using `Counter`.
